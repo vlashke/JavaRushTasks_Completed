@@ -1,10 +1,10 @@
-# JavaRushTasks_Completed
+# JavaRushTasks
 
 1. Java Syntax:
-  - Level 1 - Команды и первая программа :white_check_mark:
-  - Level 2 - Знакомство с типами и ввод с клавиатуры :white_check_mark:
-  - Level 3 - Условный оператор :white_check_mark:
-  - Level 4 - Циклы :white_check_mark:
+  - Level 1 - Команды и первая программа (totalTasks = 9) :white_check_mark:
+  - Level 2 - Знакомство с типами и ввод с клавиатуры (totalTasks = 12) :white_check_mark:
+  - Level 3 - Условный оператор (totalTasks = 19) :white_check_mark:
+  - Level 4 - Циклы (totalTasks = 13) :white_check_mark:
   - Level 5 - IDEA, JDK и Plugin (In progress)
   - Level 6 - Массивы
   - Level 7 - Функции 
@@ -17,5 +17,5 @@
   - Level 14 - Коллекции, часть 2
   - Level 15 - Исключения
   - Level 16 - Время жизни обьекта
-2. Java Core 
+2. Java Core:
   - ...
