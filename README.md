@@ -5,8 +5,8 @@
   - Level 2 - Знакомство с типами и ввод с клавиатуры (totalTasks = 12) :white_check_mark:
   - Level 3 - Условный оператор (totalTasks = 19) :white_check_mark:
   - Level 4 - Циклы (totalTasks = 13) :white_check_mark:
-  - Level 5 - IDEA, JDK и Plugin (In progress)
-  - Level 6 - Массивы
+  - Level 5 - IDEA, JDK и Plugin (totalTasks = 2) :white_check_mark:
+  - Level 6 - Массивы (In progress)
   - Level 7 - Функции 
   - Level 8 - Типы данных 
   - Level 9 - Работа со строками 

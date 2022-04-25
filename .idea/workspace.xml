@@ -1,7 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3794fa19-733c-4d13-8af3-5c81d6ab9746" name="Changes" comment="" />
+    <list default="true" id="3794fa19-733c-4d13-8af3-5c81d6ab9746" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0101/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0101/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0101/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0101/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0102/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0102/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0102/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0102/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0103/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0103/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0103/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0103/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0105/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0105/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0105/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0105/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0106/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0106/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0106/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0106/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0107/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0107/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0107/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0107/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0108/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0108/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0108/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0108/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0115/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0115/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0115/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0115/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0118/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0118/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 1 - Команды и первая программа/task0118/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 1 - Команды и первая программа/task0118/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0109/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0109/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0109/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0109/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0110/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0110/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0110/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0110/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0111/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0111/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0111/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0111/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0116/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0116/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0116/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0116/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0117/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0117/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0117/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0117/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0119/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0119/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0119/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0119/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0121/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0121/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0121/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0121/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0139/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0139/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0139/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0139/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0140/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0140/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0140/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0140/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0318/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0318/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0318/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0318/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0319/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0319/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0319/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0319/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0322/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0322/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0322/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 2 - Знакомство с типами и ввод с клавиатуры/task0322/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0401/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0401/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0401/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0401/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0402/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0402/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0402/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0402/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0403/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0403/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0403/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0403/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0404/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0404/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0404/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0404/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0405/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0405/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0405/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0405/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0406/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0406/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0406/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0406/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0407/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0407/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0407/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0407/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0408/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0408/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0408/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0408/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0410/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0410/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0410/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0410/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0412/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0412/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0412/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0412/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0413/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0413/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0413/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0413/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0418/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0418/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0418/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0418/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0422/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0422/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0422/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0422/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0423/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0423/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0423/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0423/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0425/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0425/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0425/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0425/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0426/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0426/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0426/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0426/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0427/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0427/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0427/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0427/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0428/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0428/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0428/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0428/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0429/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0429/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 3 - Условный оператор/task0429/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 3 - Условный оператор/task0429/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0430/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0430/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0430/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0430/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0431/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0431/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0431/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0431/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0432/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0432/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0432/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0432/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0433/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0433/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0433/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0433/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0434/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0434/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0434/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0434/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0435/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0435/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0435/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0435/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0436/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0436/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0436/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0436/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0437/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0437/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0437/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0437/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0438/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0438/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0438/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0438/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0439/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0439/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0439/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0439/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0440/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0440/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0440/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0440/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0441/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0441/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0441/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0441/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0442/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0442/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/Level 4 - Циклы/task0442/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 4 - Циклы/task0442/Условие.jrtc" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +117,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="27zKhqUhzRzreZcx7Zgx5TQWzHc" />
   <component name="ProjectViewState">
@@ -20,7 +129,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaRushTasks" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,5 +141,17 @@
       <updated>1650317596551</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
