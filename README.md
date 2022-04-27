@@ -6,8 +6,8 @@
   - Level 3 - Условный оператор (totalTasks = 19) :white_check_mark:
   - Level 4 - Циклы (totalTasks = 13) :white_check_mark:
   - Level 5 - IDEA, JDK и Plugin (totalTasks = 2) :white_check_mark:
-  - Level 6 - Массивы (In progress)
-  - Level 7 - Функции 
+  - Level 6 - Массивы (totalTasks = 18) :white_check_mark:
+  - Level 7 - Функции (In progress)
   - Level 8 - Типы данных 
   - Level 9 - Работа со строками 
   - Level 10 - Обьекты
