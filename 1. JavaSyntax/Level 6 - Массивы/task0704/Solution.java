@@ -9,18 +9,33 @@ import java.util.Scanner;
 */
 
 public class Solution {
-    public static void main(String[] args) throws Exception {
-        //напишите тут ваш код
-        Scanner scanner = new Scanner(System.in);
-        int[] array = new int[10];
-        for (int i = 0; i < array.length; i++) {
-            array[i] = scanner.nextInt();
-        }
-        for (int i = array.length-1; i >= 0; i--) {
-            System.out.println(array[i]);
-        }
-
-
+    public static void printHydrogenInfo() {
+        System.out.println("Водород:");
+        System.out.println("Это химический элемент периодической системы с обозначением H и атомным номером 1.");
+        System.out.println("Является самым легким элементом таблицы.");
+        System.out.println("Водород применяется в:");
+        System.out.println("-Химической промышленности;");
+        System.out.println("-Нефтеперерабатывающей промышленности;");
+        System.out.println("-Авиации;");
+        System.out.println("-Электроэнергетике.");
     }
+
+    public static void printJavaInfo() {
+        System.out.println("Водород:");
+        System.out.println("Это химический элемент периодической системы с обозначением H и атомным номером 1.");
+        System.out.println("Является самым легким элементом таблицы.");
+        System.out.println("Водород применяется в:");
+        System.out.println("-Химической промышленности;");
+        System.out.println("-Нефтеперерабатывающей промышленности;");
+        System.out.println("-Авиации;");
+        System.out.println("-Электроэнергетике.");
+    }
+
+    public static void main(String[] args) {
+        printHydrogenInfo();
+        printJavaInfo();
+    }
+
+    //напишите тут ваш код
 }
 

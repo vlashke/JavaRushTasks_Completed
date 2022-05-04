@@ -7,8 +7,8 @@
   - Level 4 - Циклы (totalTasks = 13) :white_check_mark:
   - Level 5 - IDEA, JDK и Plugin (totalTasks = 2) :white_check_mark:
   - Level 6 - Массивы (totalTasks = 18) :white_check_mark:
-  - Level 7 - Функции (In progress)
-  - Level 8 - Типы данных 
+  - Level 7 - Функции (totalTasks = 22) :white_check_mark:
+  - Level 8 - Типы данных (In progress)
   - Level 9 - Работа со строками 
   - Level 10 - Обьекты
   - Level 11 - Классы
