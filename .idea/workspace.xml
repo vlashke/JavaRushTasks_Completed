@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3794fa19-733c-4d13-8af3-5c81d6ab9746" name="Changes" comment="level 5">
+    <list default="true" id="3794fa19-733c-4d13-8af3-5c81d6ab9746" name="Changes" comment="level 7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. JavaSyntax/Level 7 - Функции/task0610/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/1. JavaSyntax/Level 7 - Функции/task0610/Условие.jrtc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="f0083af9-0908-4b63-8d33-870b360a437d" />
   </component>
   <component name="ProjectId" id="27zKhqUhzRzreZcx7Zgx5TQWzHc" />
   <component name="ProjectViewState">
@@ -23,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mm-test/mm-automation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,7 +45,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650871080975</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="level 7">
+      <created>1651696264717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651696264717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -58,6 +69,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="level 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="level 5" />
+    <MESSAGE value="level 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="level 7" />
   </component>
 </project>
